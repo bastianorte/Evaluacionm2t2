@@ -1,51 +1,24 @@
 # Evaluacion m2 t2
-:grinning:
-:smile:
-## Índice
-
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
-
-*[Insignias](#insignias)
-
-*[Índice](#índice)
-
-*[Descripción del proyecto](#descripción-del-proyecto)
-
-*[Estado del proyecto](#Estado-del-proyecto)
-
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-
-*[Acceso al proyecto](#acceso-proyecto)
-
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
-
-*[Personas Contribuyentes](#personas-contribuyentes)
-
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-*[Conclusión](#conclusión)
-
-## Proyecto 
-:grinning:
-example-tree
-├─ .git
-├─ .gitignore
-├─ img
-│  ├─ test1.png
-│  ├─ test2.png
-│  └─ test3.png
-├─ example-code
-│  ├─ examplecode.py
-│  └─ examplecode-test.py
-├─ examplecode-app.py
-└─Readme.md
-
 
 ## 📁 Acceso al proyecto
-
 \## 🛠️ Abre y ejecuta el proyecto
+
+## Descripción
+Continuando con el desarrollo del sitio web del hospital, ahora nos centraremos en mejorar la
+modularización de estilos y en asegurar que el sitio sea completamente responsivo. Esto
+implica la implementación de una metodología como BEM, el uso de SASS para estructurar el
+CSS de manera eficiente, y la aplicación de media queries para lograr una correcta
+adaptabilidad en dispositivos de diferentes tamaños.
+
+## Proyecto 
+* assets
+ * css
+ * images
+ * js
+* contacto.html
+* equipo.html
+* index.html
+* README.md
 
 ## Tecnologías utilizadas
 * Bootstrap
