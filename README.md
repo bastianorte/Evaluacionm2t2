@@ -4,11 +4,12 @@
 
 ## Instrucciones para visualizar el proyecto actualizado en un navegador.
 
-## Instrucciones para visualizar el proyecto actualizado en un navegador.
+## 📁 Acceso al proyecto
 
-## Instrucciones para visualizar el proyecto actualizado en un navegador.
+\## 🛠️ Abre y ejecuta el proyecto
 
-* hola
-    * hola
-    * hola
-    * hola
+## Tecnologías utilizadas
+* Bootstrap
+* BoxIcons
+* GoogleFonts
+* Sass
