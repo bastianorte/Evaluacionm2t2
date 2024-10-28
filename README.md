@@ -12,9 +12,9 @@ adaptabilidad en dispositivos de diferentes tamaños.
 
 ## Proyecto 
 * assets
- * css
- * images
- * js
+ ** css
+ ** images
+ ** js
 * contacto.html
 * equipo.html
 * index.html
