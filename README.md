@@ -11,14 +11,14 @@ CSS de manera eficiente, y la aplicación de media queries para lograr una corre
 adaptabilidad en dispositivos de diferentes tamaños.
 
 ## Proyecto 
-* assets
+`* assets
  ** css
  ** images
  ** js
 * contacto.html
 * equipo.html
 * index.html
-* README.md
+* README.md`
 
 ## Tecnologías utilizadas
 * Bootstrap
