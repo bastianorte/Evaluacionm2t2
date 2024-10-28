@@ -26,7 +26,21 @@
 
 *[Conclusión](#conclusión)
 
-## Instrucciones para visualizar el proyecto actualizado en un navegador.
+## Proyecto 
+
+example-tree
+├─ .git
+├─ .gitignore
+├─ img
+│  ├─ test1.png
+│  ├─ test2.png
+│  └─ test3.png
+├─ example-code
+│  ├─ examplecode.py
+│  └─ examplecode-test.py
+├─ examplecode-app.py
+└─Readme.md
+
 
 ## 📁 Acceso al proyecto
 
