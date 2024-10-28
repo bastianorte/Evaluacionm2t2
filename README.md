@@ -1,16 +1,16 @@
 # Evaluacion m2 t2
 
-## Descripción
+## 📖 Descripción
 Continuando con el desarrollo del sitio web del hospital, ahora nos centraremos en mejorar la
 modularización de estilos y en asegurar que el sitio sea completamente responsivo. Esto
 implica la implementación de una metodología como BEM, el uso de SASS para estructurar el
 CSS de manera eficiente, y la aplicación de media queries para lograr una correcta
 adaptabilidad en dispositivos de diferentes tamaños.
 
-## 📁 Acceso al proyecto
- 🛠️ Puedes visualizar la pagina en el siguiente link
+## 👁️ Acceso al proyecto
+  Puedes visualizar la pagina en el siguiente link
 
-## Proyecto 
+## 📁 Proyecto 
 ```
 ├── assets      
 │   ├── css
@@ -33,7 +33,7 @@ adaptabilidad en dispositivos de diferentes tamaños.
 ├── readme.md                  
 ```
 
-## Tecnologías utilizadas
+## 🔧 Tecnologías utilizadas
 * Bootstrap
 * BoxIcons
 * GoogleFonts
