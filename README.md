@@ -12,14 +12,26 @@ adaptabilidad en dispositivos de diferentes tamaños.
 
 ## Proyecto 
 ```
-* assets
- ** css
- ** images
- ** js
-* contacto.html
-* equipo.html
-* index.html
-* README.md
+├── assets      
+│   ├── css
+│   │   ├── _contacto.scss
+│   │   ├── _equipo.scss
+│   │   ├── _footer.scss
+│   │   ├── _header.scss
+│   │   ├── _home.scss
+│   │   ├── styles.scss
+│   │   ├── styles.css
+│   │   └── styles.css.map
+│   ├── images
+│   │   └── ..images.jpg
+│   └──  js    
+│      └── main.js       
+│
+├── contacto.html  
+├── equipo.html 
+├── index.html 
+├── readme.md       
+│            
 ```
 
 ## Tecnologías utilizadas
