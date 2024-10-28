@@ -1,5 +1,6 @@
 # Evaluacion m2 t2
-
+:grinning:
+:smile:
 ## Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
@@ -27,7 +28,7 @@
 *[Conclusión](#conclusión)
 
 ## Proyecto 
-
+:grinning:
 example-tree
 ├─ .git
 ├─ .gitignore
